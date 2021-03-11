@@ -178,8 +178,9 @@
 ​			主页：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/garbage_classification_image/index.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/garbage_classification_image/index.png" width=""/>
 </p>
+
 
 
 
@@ -188,39 +189,41 @@
 ​		登录成功的提示：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/garbage_classification_image/sign_in_succeed.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/garbage_classification_image/sign_in_succeed.png" width=""/>
 </p>
+
 
 
 
 ​		登录失败的提示：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/garbage_classification_image/sign_in_failed.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/garbage_classification_image/sign_in_failed.png" width=""/>
 </p>
 
 ​		普通用户信息管理窗口：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/garbage_classification_image/normal_user_information_manage.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/garbage_classification_image/normal_user_information_manage.png" width=""/>
 </p>
+
 
 ​		管理员管理用户窗口：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/garbage_classification_image/admin_manage_user.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/garbage_classification_image/admin_manage_user.png" width=""/>
 </p>
 
 ​		退出登录的提示：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/garbage_classification_image/exit_succeed.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/garbage_classification_image/exit_succeed.png" width=""/>
 </p>
 
 ​		查询成功的提示：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/garbage_classification_image/search_succeed.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/garbage_classification_image/search_succeed.png" width=""/>
 </p>
 
 
